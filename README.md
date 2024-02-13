@@ -9,8 +9,8 @@ Discord Rich Presence For Latest ESX Legacy 1.10.4
 # Change Log
 
 * 1.1.0 
-    Compatable With ESX Legacy 1.10.4
-    Added More Badges For Discord Rich Presence EG Verified FiveM Server 
+    * Compatable With ESX Legacy 1.10.4
+    * Added More Badges For Discord Rich Presence EG Verified FiveM Server 
 
 # Configuration 
 
