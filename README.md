@@ -1,9 +1,9 @@
 # CFX OPTIX DISCORD
 Discord Rich Presence For Latest ESX Legacy 1.10.4 
 
-Recommend Lines To Check 
-cfx-optix-discord>client>main.lua>L35-36
-cfx-optix-discord>client>main.lua>L42-43
+# Recommend Lines To Check 
+* cfx-optix-discord>client>main.lua>L35-36
+* cfx-optix-discord>client>main.lua>L42-43
 
 
 # Change Log
