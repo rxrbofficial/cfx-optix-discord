@@ -1,6 +1,13 @@
 # CFX OPTIX DISCORD
 Discord Rich Presence For Latest ESX Legacy 1.10.4
 
+
+# Change Log
+
+* 1.1.0 
+    Compatable With ESX Legacy 1.10.4
+    Added More Badges For Discord Rich Presence EG Verified FiveM Server 
+
 # Configuration 
 
 1. Go to https://discord.com/developers/applications
@@ -29,11 +36,7 @@ Discord Rich Presence For Latest ESX Legacy 1.10.4
 * mysql-async or oxmysql
 * Discord Bot
 
-# Change Log
 
-* 1.1.0 
-    Compatable With ESX Legacy 1.10.4
-    Added More Badges For Discord Rich Presence EG Verified FiveM Server 
 
 
 
